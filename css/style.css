@@ -3,6 +3,15 @@
   color: purple;
   font-size: 16px;
 }
+.haley h4 {
+  font-style:italic;
+}
+
+.page-header{
+  color: purple;
+}
+
+
 .image{
   border:2px solid white;
   padding: 1px;
@@ -16,4 +25,9 @@
 .life {
   font-family: sans-serif;
   color: blue;
+}
+.nav{
+  float: right;
+  width: 200px
+  border: 3px solid white;
 }
